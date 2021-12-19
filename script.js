@@ -1,1 +1,1 @@
-alert("Open this site on Laptop only... It won't work in mobiles :)");
+alert("Open this site on Laptop for better experience :)");
