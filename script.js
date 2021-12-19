@@ -1,0 +1,1 @@
+alert("Open this site on Laptop only... It won't work in mobiles :)");
